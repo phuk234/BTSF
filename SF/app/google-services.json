@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869926511448",
+    "project_id": "btsf-c9680",
+    "storage_bucket": "btsf-c9680.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869926511448:android:a215009ad585bbc7a87b2d",
+        "android_client_info": {
+          "package_name": "com.example.sf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869926511448-0osfivveebcsjdi2tucobeh6bpq9diqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9tz3D5TmjDD7uigtILPPGPLVbYWo8_UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869926511448-0osfivveebcsjdi2tucobeh6bpq9diqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
